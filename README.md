@@ -1,5 +1,4 @@
-started learning about machine learning because I was curious
-now im in to deep to quit
+Projects that I am doing.
 
 <!---
 Subdiii/Subdiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
